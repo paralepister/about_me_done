@@ -10,3 +10,28 @@ html {
 body {
   margin: 0px;
 }
+#main .smth-2[data-elem-id="aboutmestory"] {
+  color: #000000;
+  z-index: 45;
+  top: 197px;
+  left: calc(50% - 600px + 116px);
+  width: 590px;
+}
+
+#main .smth-2[data-elem-id="aboutmestory"] .smth-3 {
+  color: #000000;
+  font-size: 81px;
+  font-family: 'Roboto';
+  line-height: 1;
+  font-weight: 700;
+  background-position: center center;
+  border-color: transparent;
+  border-style: solid;
+}
+ #aboutmestory {
+   color: #542333;
+z-index: 45;
+top: 197px;
+left: calc(50% - 600px + 116px);
+width: 590px;
+ }
